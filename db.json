@@ -1,0 +1,141 @@
+{
+  "Vulnerabilities": [
+     {
+        "CVE-ID": "CVE-2019-0836",
+        "Exploit_Links": [
+           {
+              "1": "https://exploit-db.com/exploits/46718",
+              "2": "https://decoder.cloud/2019/04/29/combinig-luafv-postluafvpostreadwrite-race-condition-pe-with-diaghub-collector-exploit-from-standard-user-to-system/"
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-0841",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ],
+        "VulnerableVersion": [
+           {
+              "10240": [
+                 4493475,
+                 4498375,
+                 4499154,
+                 4505051,
+                 4503291,
+                 4507458,
+                 4512497,
+                 4517276,
+                 4522009,
+                 4520011,
+                 4524153,
+                 4525232,
+                 4530681,
+                 4534306,
+                 4537776,
+                 4540693,
+                 4550930,
+                 4556826,
+                 4561649,
+                 4567518,
+                 4565513,
+                 4571692,
+                 4577049
+              ]
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-1064",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-1130",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-1253",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-1315",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-1385",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-1388",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2019-1405",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2020-0668",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2020-0683",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     },
+     {
+        "CVE-ID": "CVE-2020-1013",
+        "Exploit_Links": [
+           {
+              "1": "",
+              "2": ""
+           }
+        ]
+     }
+  ]
+}
