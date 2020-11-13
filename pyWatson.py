@@ -66,3 +66,4 @@ def main():
     evaluate(buildNumber, kbList)
 
 main()
+print("1")
